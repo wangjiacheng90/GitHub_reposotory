@@ -1,0 +1,7 @@
+改了引路径 
+
+
+//2018-07-18修改了调用路径
+A = "assets/My97DatePicker/";
+
+var A_url ="../../../assets/My97DatePicker/";  //2018-07-18 修改了路径
